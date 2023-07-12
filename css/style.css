@@ -1,0 +1,54 @@
+.body{
+	background-color: lightcyan;
+}
+.container{
+	background-color: black;
+	overflow: hidden;
+}
+.logo{
+	width: 30%;
+	float: left;
+}
+.name{
+	font-family: sans-serif;
+	font-size: 50px;
+	color: lightcoral;
+	width: 40%;
+	float: left;
+}        
+.menu{
+	width: 30%;
+	float: left;
+}
+.wrepper{
+	border: 5px solid;
+	overflow: hidden;
+}
+.home{
+	background-color: lightblue;
+	width: 33%;
+	float: left;
+	height: 400px;
+	text-align: center;
+}
+.about{
+	background-color: slateblue;
+	width: 34%;
+	float: left;
+	height: 400px;
+	text-align: center;
+}
+.content{
+	background-color: skyblue;
+	width: 33%;
+	float: left;
+	height: 400px;
+	text-align: center;
+}
+.footer{
+	background-color: black;
+	font-size: 30px;
+	color: lightcoral;
+	height: 75px;
+	text-align: center;
+}
